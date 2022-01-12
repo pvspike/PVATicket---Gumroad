@@ -34,5 +34,6 @@ Free ticket support
 Versions
 
 Version  1.0 Beta released 
+https://pvspike.gumroad.com/l/PVATicket
 
 
